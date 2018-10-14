@@ -18,7 +18,7 @@ short_description: J'aime la lecture, les animaux et tout ce qui a un rapport av
 # don't touch that
 template: students
 description:
-   Je suis infirmière depuis maintenant 16 ans mais je souhaite maintenant changer totalement de voie et faire un métier dans le monde de l'informatique. j'adore créer, je suis plus que curieuse de savoir et comprendre comment une application se créer et fonctionne. Et j'adore le monde d'Apple. Donc me voici pour tenter de devenir développeuse d'applications IOS.
+   Je suis infirmière depuis maintenant 16 ans mais je souhaite maintenant changer totalement de voie et faire un métier dans le monde de l'informatique. j'adore créer, je suis plus que curieuse de savoir et comprendre comment une application se créer et fonctionne. Et j'adore le monde d'Apple. Donc me voici pour tenter de devenir développeuse d'applications Python.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
